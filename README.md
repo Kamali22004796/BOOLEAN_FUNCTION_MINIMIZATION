@@ -57,8 +57,7 @@ assign F1=x1|x2|x3|x4|x5;
 assign F2=x6|x7|x8|x9|x10;
 endmodule
 ```
-Developed by: VARSHA A
-Register Number:212223220121
+
 
 **RTL realization**
 
